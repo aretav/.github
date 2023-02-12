@@ -5,4 +5,4 @@
 
 # Aretav
 
-Hey there! Welcome to Aretav's organization page. I'm slowly working on open sourcing Aretav, so when it's complete everything will be uploaded here. :D
+Welcome to Aretav! We're in the process of open-sourcing Aretav - so, stay tuned!
